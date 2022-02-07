@@ -20,7 +20,7 @@
 <h3 align="center">Project Name</h3>
 
   <p align="center">
-    project_description
+    Project Description
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
