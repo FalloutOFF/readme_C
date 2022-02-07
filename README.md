@@ -1,7 +1,5 @@
 <div id="top"></div>
 
-
-
  <!-- пример кнопки Shield
 [![Language](ссылка на значок)](ссылка на файл)
  -->
@@ -20,7 +18,7 @@
 <h3 align="center">Project Name</h3>
 
   <p align="center">
-    Project Description
+    project_description
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -206,4 +204,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [language-url] https://github.com/FalloutOFF/readme_C/search?l=html&type=code
                                 
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: image/mp017.png
