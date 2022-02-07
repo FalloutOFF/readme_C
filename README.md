@@ -1,21 +1,18 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
+
  <!-- пример кнопки Shield -->
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Icons shield
-More text there
-https://img.shields.io/github/license/FalloutOFF/readme_C
-.. image:: https://img.shields.io/github/license/FalloutOFF/readme_C   :alt: GitHub
-image:https://img.shields.io/github/license/FalloutOFF/readme_C[GitHub]
-<img alt="GitHub" src="https://img.shields.io/github/license/FalloutOFF/readme_C">
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/FalloutOFF/readme_C?style=for-the-badge">
 
+[![Dependabot](https://badgen.net/badge/Dependabot/enabled/blue?icon=dependabot)](https://dependabot.com/)
 
+[![Language](ссылка на значок)](ссылка на файл)
+
+[![Language](https://img.shields.io/github/languages/count/FalloutOFF/readme_C?style=for-the-badge)](https://github.com/FalloutOFF/les_HTML5CSS3/search?l=html&type=code)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -206,16 +203,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+
 [license-shield]: https://img.shields.io/github/license/FalloutOFF/readme_C?style=for-the-badge
 [license-url]: https://github.com/FalloutOFF/readme_C/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[language-shield]: https://img.shields.io/github/languages/count/FalloutOFF/readme_C?style=for-the-badge
+[language-url] https://github.com/FalloutOFF/readme_C/search?l=html&type=code
+                                
+
 [product-screenshot]: images/screenshot.png
