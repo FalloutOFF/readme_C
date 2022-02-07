@@ -2,17 +2,13 @@
 
 
 
- <!-- пример кнопки Shield -->
-[![MIT License][license-shield]][license-url]
-
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/FalloutOFF/readme_C?style=for-the-badge">
-
-[![Dependabot](https://badgen.net/badge/Dependabot/enabled/blue?icon=dependabot)](https://dependabot.com/)
-
+ <!-- пример кнопки Shield
 [![Language](ссылка на значок)](ссылка на файл)
-
+ -->
+[![MIT License][license-shield]][license-url]
 [![Language](https://img.shields.io/github/languages/count/FalloutOFF/readme_C?style=for-the-badge)](https://github.com/FalloutOFF/les_HTML5CSS3/search?l=html&type=code)
+[![Made with](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=appveyor)](https://www.python.org/)
+
 
 <!-- PROJECT LOGO -->
 <br />
