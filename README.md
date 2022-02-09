@@ -57,11 +57,7 @@
         <li><a href="#swift">Swift</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#сontact">Contact</a></li>
   </ol>
 </details>
 
@@ -86,24 +82,32 @@
 
 ### <a name="mainMenu"></a>Главное меню
 
+Очень краткое описание. Главный навигационный экран. С данного экрана можно осущесвить переходы в другие разделы мобильного приложения.
+
 <div align="center">
   <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/main2.PNG">
   <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/scr2.PNG">
-<div>
+</div>
 
 ### <a name="clientProgile"></a>Профиль клиента
+
+Экран настройки профиля клиента и прикрепления карт оплаты.
 
 <div align="center">
   <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/check.PNG">
 </div>
 
-### <a name="adminProgile"></a>Профиль администратора
+### <a name="adminProfile"></a>Профиль администратора
+
+Экран профиля администратора, с данного экрана можно осуществить переход в панель администрирования мобильного приложения и экран добавления контента.
 
 <div align="center">
   <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/mainm.PNG">
 </div>
 
 ### <a name="map"></a>Карта
+
+Навигационная карта для отслеживания транспортных сетей. В зависимости от роли пользователя, может быть представлена в различных вариациях.
 
 <div align="center">
   <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/map.PNG">
@@ -230,6 +234,16 @@ class TransitionManager: NSObject, UIViewControllerAnimatedTransitioning, UIView
     }
 ```
 
+## <a name="сontact"></a>Наши контакты
+
+Наш телефон -  +7(499)322-82-50
+
+Электронная почта: upport@appcraft.pro
+
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 ________________________________________________________________________________________________
 <!-- Ссылка на изображение -->
+
 [Product-Screen-Shot]: image/mp017.png
