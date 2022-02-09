@@ -28,7 +28,15 @@
         <li><a href="#built-with">Использовано в проекте</a></li>
       </ul>
     </li>
-    <li><a href="#mainScreens">Основные экраны и функции меню</a></li>
+    <li>
+      <a href="#mainScreens">Основные экраны и функции меню</a>
+      <ul>
+        <li><a href="#mainMenu">Главное меню</a></li>
+        <li><a href="#clientProgile">Профиль клиента</a></li>
+        <li><a href="#adminProfile">Профиль администратора</a></li>
+        <li><a href="#map">Карта</a></li>
+      </ul>
+    </li>
     <li>
       <a href="#gettingStarted">Установка и инсталяция</a>
       <ul>
@@ -76,7 +84,29 @@
 
 ## <a name="mainScreens"></a>Основные экраны и функции меню
 
+### <a name="mainMenu"></a>Главное меню
 
+<div align="center">
+  <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/main2.PNG">
+<div>
+
+### <a name="clientProgile"></a>Профиль клиента
+
+<div align="center">
+  <img width="80" height="80" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/main2.PNG">
+</div>
+
+### <a name="adminProgile"></a>Профиль администратора
+
+<div align="center">
+  <img width="80" height="80" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/main2.PNG">
+</div>
+
+### <a name="map"></a>Карта
+
+<div align="center">
+  <img width="80" height="80" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/main2.PNG">
+</div>
 
 ## <a name="gettingStarted"></a>Установка и инсталяция
 
