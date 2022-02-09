@@ -88,24 +88,25 @@
 
 <div align="center">
   <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/main2.PNG">
+  <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/scr2.PNG">
 <div>
 
 ### <a name="clientProgile"></a>Профиль клиента
 
 <div align="center">
-  <img width="80" height="80" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/main2.PNG">
+  <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/check.PNG">
 </div>
 
 ### <a name="adminProgile"></a>Профиль администратора
 
 <div align="center">
-  <img width="80" height="80" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/main2.PNG">
+  <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/mainm.PNG">
 </div>
 
 ### <a name="map"></a>Карта
 
 <div align="center">
-  <img width="80" height="80" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/main2.PNG">
+  <img width="220" height="420" src="https://github.com/FalloutOFF/readme_C/blob/main/image/scr/map.PNG">
 </div>
 
 ## <a name="gettingStarted"></a>Установка и инсталяция
